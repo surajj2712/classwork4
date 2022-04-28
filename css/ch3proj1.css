@@ -1,0 +1,170 @@
+h1, h2, h3, nav, footer {
+    font-family:  Geneva, Tahoma, sans-serif sans-serif;
+}
+body
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 100%;
+    background-color: rgb(72, 61, 139);
+}
+h1
+{
+    font-size: 2.0rem;
+}
+h2
+{
+    font-size: 1.2rem;
+}
+p
+{
+    font-size: 1.6rem;
+    margin-top: 0em;
+    margin-right: 0em;
+    margin-bottom: 0.8em;
+    margin-left: 0em;
+    letter-spacing: 1px;
+}
+nav
+{
+    font-size: 1.125rem;
+}
+hgroup
+{
+    padding: 0.5em;
+}
+nav
+{
+    background-color: rgb(61,98,113)
+}
+nav ul li
+{
+    list-style: none;
+    display: inline;
+}
+nav
+{
+    padding: 0.25em;
+    
+}
+nav a
+{
+    padding: 0.25em;
+}
+header, footer
+{
+    
+    color: white;
+    background-color: #3D6271;
+    margin-top: 0em;
+    margin-right: 4em;
+    margin-bottom: 0.5em;
+    margin-left: 4em;
+    
+}
+nav
+{
+    font-size: 1.125rem;
+}
+nav a
+{
+    padding: 0.50em;
+}
+article
+{
+    background-color: white;
+    margin-top: 1em;
+    margin-right: 4em;
+    margin-bottom: 1em;
+    margin-left: 4em;
+    padding: 0.5em;
+}
+figcaption
+{
+    font-size: 0.9rem;
+    color: aquamarine;
+    font-style: italic;
+    margin-bottom: 00.5em;
+}
+figure
+{
+    margin-top: 0.5em;
+    margin-right: 0em;
+    margin-bottom: 0.5em;
+    margin-left: 0em;
+}
+figure img
+{
+    padding: 0.25em;
+    border: solid 1.5px #999999;
+}
+figure div
+{
+    margin: 0.25em 0 2em 0;
+    padding: 0.5em;
+    width: 485px;
+    background-color: #9FAAB0;
+    border: solid 1.5px #999999;
+    border-radius: 4px;
+    
+    background-repeat: repeat-x;
+}
+figure div  p
+{
+    font-size: 70%;
+}
+figure div img
+{
+    padding: 0;
+    border: 0;
+}
+figure div p
+{
+    margin: 0;
+}
+footer
+{
+    padding: 0.5em;
+}
+footer p
+{
+    font-size: .875rem;
+}
+
+h3
+{
+    font-size: 20px;
+    border-bottom: solid 1pt rgb(153, 153, 153);
+    margin: 0 0 0.5em 0;
+}
+.line
+{
+    font-size: 0.875rem;
+    color: #728B96;
+    font-style: italic;
+    
+}
+#reviews
+{
+    margin-top: 1em;
+}
+#reviews div
+{
+    border-bottom: dotted 1pt #999999;
+    margin-bottom: 1.25em;
+}
+#reviews p
+{
+    margin: 0;
+}
+a:link
+{
+    font-weight: bold;
+    color: rgb(71, 179, 215);
+}
+a:visited
+{
+    color: rgb(187,120,255);
+}
+a:hover {
+    background-color: rgb(255,255,204);
+}
